@@ -32,7 +32,7 @@ unfolding map cannot be used in Processing 3.x (on 1/Apr/2016)
 
 ## Images
 
-<a><img src="https://github.com/matzTada/MyLocationMemory/blob/master/image/pic01" alt="" width=20%></a>
-<a><img src="https://github.com/matzTada/MyLocationMemory/blob/master/image/pic02" alt="" width=20%></a>
-<a><img src="https://github.com/matzTada/MyLocationMemory/blob/master/image/pic03" alt="" width=20%></a>
-<a><img src="https://github.com/matzTada/MyLocationMemory/blob/master/image/pic04" alt="" width=20%></a>
+<a><img src="https://github.com/matzTada/MyLocationMemory/blob/master/image/pic01.jpg" alt="" width=20%></a>
+<a><img src="https://github.com/matzTada/MyLocationMemory/blob/master/image/pic02.jpg" alt="" width=20%></a>
+<a><img src="https://github.com/matzTada/MyLocationMemory/blob/master/image/pic03.jpg" alt="" width=20%></a>
+<a><img src="https://github.com/matzTada/MyLocationMemory/blob/master/image/pic04.jpg" alt="" width=20%></a>
