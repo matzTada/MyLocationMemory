@@ -1,4 +1,4 @@
-#MyLocationMemory
+# MyLocationMemory
 A map application to store places to visit and relationship between places.
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=u9AqzISPj1Q
